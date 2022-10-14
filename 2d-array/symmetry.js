@@ -53,3 +53,4 @@ function Vertical(arr, n){
     }
     return true;
 }
+
